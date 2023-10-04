@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenTime</string>
+    <string name="ok">OK</string>
+    <string name="permission_required">Camera access is required</string>
+    <string name="permission_granted">Permission is granted. You would use the camera now.</string>
+<!--    <string name=""-->
+</resources>
